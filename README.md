@@ -2,7 +2,6 @@
 
 
 
-I am a Student in Misr International Universty.
 <br/>
 <br/>
 
@@ -10,9 +9,9 @@ I am a Student in Misr International Universty.
   
 ### 🧐 More About Me:
 
-- 🌱 &nbsp; I’m currently learning python; 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-
+🎓 Student at **Misr International University (MIU)**  
+💡 Passionate about software development, problem-solving, and learning new technologies  
+🚀 Currently exploring web development and backend technologies 
 <br>
 
 ### 🔨 Languages and Tools:
@@ -44,11 +43,11 @@ I am a Student in Misr International Universty.
 <br>
 
 ### 🛠️ My Projects
-I do:
--Task mangment system (with C++)
--Pharmacy Management System (OOP with Java)
--Online Bookstore (C++ with BST)
--coffee shop website (with Html,Css,Js)
--university food & beverage oreders(with Html,Css,Js,php)
+<br>I do:<br>
+<br>-Task mangment system (with C++)<br>
+<br>-Pharmacy Management System (OOP with Java)<br>
+<br>-Online Bookstore (C++ with BST)<br>
+<br>-coffee shop website (with Html,Css,Js)<br>
+<br>-university food & beverage oreders(with Html,Css,Js,php)<br>
 
 
