@@ -44,7 +44,6 @@
 <br>
 
 ### 🛠️ My Projects
-<br>I do:<br>
 <br>-Task mangment system (with C++)<br>
 <br>-Pharmacy Management System (OOP with Java)<br>
 <br>-Online Bookstore (C++ with BST)<br>
